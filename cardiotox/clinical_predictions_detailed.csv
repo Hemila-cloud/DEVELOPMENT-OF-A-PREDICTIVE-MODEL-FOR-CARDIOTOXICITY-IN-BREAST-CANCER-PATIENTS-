@@ -1,0 +1,108 @@
+actual_outcome,predicted_probability,risk_category,clinical_recommendation
+0,0.2664392478998135,High Risk,"Consider cardioprotection, 2-month echo"
+1,0.9639911740868368,Very High Risk,"Start cardioprotection, monthly echo, cardio-oncology referral"
+0,0.39396613289038107,High Risk,"Consider cardioprotection, 2-month echo"
+0,0.2593728214563529,High Risk,"Consider cardioprotection, 2-month echo"
+0,0.22613849588003687,Moderate Risk,Enhanced monitoring (3-month echo)
+1,0.2188531976622511,Moderate Risk,Enhanced monitoring (3-month echo)
+0,0.23854611629907632,Moderate Risk,Enhanced monitoring (3-month echo)
+0,0.2556700941172433,High Risk,"Consider cardioprotection, 2-month echo"
+0,0.2613344489782692,High Risk,"Consider cardioprotection, 2-month echo"
+1,0.7732304930996846,Very High Risk,"Start cardioprotection, monthly echo, cardio-oncology referral"
+0,0.1795963811261717,Moderate Risk,Enhanced monitoring (3-month echo)
+0,0.34641257226549427,High Risk,"Consider cardioprotection, 2-month echo"
+1,0.8763380920403896,Very High Risk,"Start cardioprotection, monthly echo, cardio-oncology referral"
+0,0.30471191598660036,High Risk,"Consider cardioprotection, 2-month echo"
+0,0.22513197916587224,Moderate Risk,Enhanced monitoring (3-month echo)
+0,0.4144317547175004,High Risk,"Consider cardioprotection, 2-month echo"
+1,0.934073699576589,Very High Risk,"Start cardioprotection, monthly echo, cardio-oncology referral"
+1,0.955880159360643,Very High Risk,"Start cardioprotection, monthly echo, cardio-oncology referral"
+1,0.3679193088818289,High Risk,"Consider cardioprotection, 2-month echo"
+0,0.1849385352889395,Moderate Risk,Enhanced monitoring (3-month echo)
+0,0.6822857596407507,Very High Risk,"Start cardioprotection, monthly echo, cardio-oncology referral"
+0,0.43419347756116866,High Risk,"Consider cardioprotection, 2-month echo"
+0,0.22487884226418073,Moderate Risk,Enhanced monitoring (3-month echo)
+0,0.4618437390648681,High Risk,"Consider cardioprotection, 2-month echo"
+0,0.2430399971981367,Moderate Risk,Enhanced monitoring (3-month echo)
+0,0.9553299172574142,Very High Risk,"Start cardioprotection, monthly echo, cardio-oncology referral"
+0,0.1791860013238218,Moderate Risk,Enhanced monitoring (3-month echo)
+0,0.4625581905983515,High Risk,"Consider cardioprotection, 2-month echo"
+1,0.977289452985148,Very High Risk,"Start cardioprotection, monthly echo, cardio-oncology referral"
+0,0.487349781950963,High Risk,"Consider cardioprotection, 2-month echo"
+0,0.36769014727008614,High Risk,"Consider cardioprotection, 2-month echo"
+0,0.2093235593259709,Moderate Risk,Enhanced monitoring (3-month echo)
+0,0.39111643419916786,High Risk,"Consider cardioprotection, 2-month echo"
+0,0.5000000083264975,Very High Risk,"Start cardioprotection, monthly echo, cardio-oncology referral"
+1,0.47465229362284633,High Risk,"Consider cardioprotection, 2-month echo"
+1,0.4801623943001244,High Risk,"Consider cardioprotection, 2-month echo"
+0,0.2348737788797931,Moderate Risk,Enhanced monitoring (3-month echo)
+0,0.3105724197927979,High Risk,"Consider cardioprotection, 2-month echo"
+0,0.24055424552399662,Moderate Risk,Enhanced monitoring (3-month echo)
+0,0.2695187064980798,High Risk,"Consider cardioprotection, 2-month echo"
+0,0.2771755317151362,High Risk,"Consider cardioprotection, 2-month echo"
+0,0.3886258396873361,High Risk,"Consider cardioprotection, 2-month echo"
+0,0.49588403036700324,High Risk,"Consider cardioprotection, 2-month echo"
+1,0.2952556620765902,High Risk,"Consider cardioprotection, 2-month echo"
+0,0.24741464084128487,Moderate Risk,Enhanced monitoring (3-month echo)
+1,0.2341906160669789,Moderate Risk,Enhanced monitoring (3-month echo)
+1,0.4499973228874718,High Risk,"Consider cardioprotection, 2-month echo"
+0,0.4055196827102445,High Risk,"Consider cardioprotection, 2-month echo"
+0,0.4826842427300016,High Risk,"Consider cardioprotection, 2-month echo"
+0,0.31442576186372523,High Risk,"Consider cardioprotection, 2-month echo"
+0,0.32274971867184055,High Risk,"Consider cardioprotection, 2-month echo"
+1,0.9690756342882242,Very High Risk,"Start cardioprotection, monthly echo, cardio-oncology referral"
+1,0.9082412522215233,Very High Risk,"Start cardioprotection, monthly echo, cardio-oncology referral"
+0,0.27609825318026066,High Risk,"Consider cardioprotection, 2-month echo"
+1,0.9395420963142447,Very High Risk,"Start cardioprotection, monthly echo, cardio-oncology referral"
+0,0.2240625556369845,Moderate Risk,Enhanced monitoring (3-month echo)
+0,0.3589464277664904,High Risk,"Consider cardioprotection, 2-month echo"
+0,0.3767248847481767,High Risk,"Consider cardioprotection, 2-month echo"
+0,0.23993864913155444,Moderate Risk,Enhanced monitoring (3-month echo)
+1,0.5860400638563105,Very High Risk,"Start cardioprotection, monthly echo, cardio-oncology referral"
+1,0.9740598608216436,Very High Risk,"Start cardioprotection, monthly echo, cardio-oncology referral"
+0,0.9294659694058982,Very High Risk,"Start cardioprotection, monthly echo, cardio-oncology referral"
+1,0.94231422091057,Very High Risk,"Start cardioprotection, monthly echo, cardio-oncology referral"
+0,0.3294014002695949,High Risk,"Consider cardioprotection, 2-month echo"
+0,0.17407456606713026,Moderate Risk,Enhanced monitoring (3-month echo)
+1,0.9644660601997651,Very High Risk,"Start cardioprotection, monthly echo, cardio-oncology referral"
+0,0.25955411000558676,High Risk,"Consider cardioprotection, 2-month echo"
+0,0.8644179122466138,Very High Risk,"Start cardioprotection, monthly echo, cardio-oncology referral"
+0,0.3400147165404079,High Risk,"Consider cardioprotection, 2-month echo"
+0,0.31793231552654216,High Risk,"Consider cardioprotection, 2-month echo"
+1,0.9463927077400768,Very High Risk,"Start cardioprotection, monthly echo, cardio-oncology referral"
+0,0.2371290157929294,Moderate Risk,Enhanced monitoring (3-month echo)
+0,0.23756182194850017,Moderate Risk,Enhanced monitoring (3-month echo)
+0,0.1959841501742166,Moderate Risk,Enhanced monitoring (3-month echo)
+0,0.23458392907051587,Moderate Risk,Enhanced monitoring (3-month echo)
+0,0.1741323826402411,Moderate Risk,Enhanced monitoring (3-month echo)
+0,0.27937306723054184,High Risk,"Consider cardioprotection, 2-month echo"
+0,0.4520029440664881,High Risk,"Consider cardioprotection, 2-month echo"
+0,0.3844274699377306,High Risk,"Consider cardioprotection, 2-month echo"
+0,0.26521198652813266,High Risk,"Consider cardioprotection, 2-month echo"
+0,0.13853201600849913,Moderate Risk,Enhanced monitoring (3-month echo)
+0,0.890823670956457,Very High Risk,"Start cardioprotection, monthly echo, cardio-oncology referral"
+0,0.314843540492529,High Risk,"Consider cardioprotection, 2-month echo"
+1,0.26584313152282624,High Risk,"Consider cardioprotection, 2-month echo"
+0,0.18221610647435407,Moderate Risk,Enhanced monitoring (3-month echo)
+0,0.26453246554665055,High Risk,"Consider cardioprotection, 2-month echo"
+0,0.1741541427145947,Moderate Risk,Enhanced monitoring (3-month echo)
+0,0.24438494930906973,Moderate Risk,Enhanced monitoring (3-month echo)
+0,0.346116418622261,High Risk,"Consider cardioprotection, 2-month echo"
+0,0.39264624953830635,High Risk,"Consider cardioprotection, 2-month echo"
+0,0.26842673712832166,High Risk,"Consider cardioprotection, 2-month echo"
+0,0.2611398108268365,High Risk,"Consider cardioprotection, 2-month echo"
+0,0.33970411740848205,High Risk,"Consider cardioprotection, 2-month echo"
+0,0.5341298374036225,Very High Risk,"Start cardioprotection, monthly echo, cardio-oncology referral"
+0,0.2569257445555645,High Risk,"Consider cardioprotection, 2-month echo"
+0,0.280671276438559,High Risk,"Consider cardioprotection, 2-month echo"
+0,0.2504635605180619,High Risk,"Consider cardioprotection, 2-month echo"
+1,0.4272069010848621,High Risk,"Consider cardioprotection, 2-month echo"
+0,0.32820979823939384,High Risk,"Consider cardioprotection, 2-month echo"
+0,0.16118317108003838,Moderate Risk,Enhanced monitoring (3-month echo)
+0,0.7807156788111727,Very High Risk,"Start cardioprotection, monthly echo, cardio-oncology referral"
+0,0.4161583497463645,High Risk,"Consider cardioprotection, 2-month echo"
+1,0.7777974060882028,Very High Risk,"Start cardioprotection, monthly echo, cardio-oncology referral"
+1,0.587700764979906,Very High Risk,"Start cardioprotection, monthly echo, cardio-oncology referral"
+0,0.6701527235217054,Very High Risk,"Start cardioprotection, monthly echo, cardio-oncology referral"
+0,0.31335124038096457,High Risk,"Consider cardioprotection, 2-month echo"
+0,0.29203574350368044,High Risk,"Consider cardioprotection, 2-month echo"
