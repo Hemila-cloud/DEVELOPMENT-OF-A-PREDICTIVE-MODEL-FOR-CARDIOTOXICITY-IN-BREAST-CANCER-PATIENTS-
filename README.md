@@ -1,4 +1,4 @@
-# Development of a Predictive Model for Cardiotoxicity in Breast Cancer Patients using Clinical Biomarkers and Time-Series Features**
+# Development of a Predictive Model for Cardiotoxicity in Breast Cancer Patients using Clinical Biomarkers and Time-Series Features
 
 ---
 
